@@ -132,7 +132,6 @@ plt.show()
 
 Match 1 to 10
 
-![alt text](<Screenshot 2025-03-29 at 14-30-05 ipl matches 2025 - Google Search.png>)
 
 
 ## MATCH 1  
@@ -444,7 +443,6 @@ team2 = 'Sunrisers Hyderabad'
 venue = 'ACA-VDCA Cricket Stadium'
 ```
 
-![lt text](image.png))
 
 ## MATCH 11 TO 20
 
@@ -750,7 +748,7 @@ venue = 'Wankhede Stadium, Mumbai'
 ```
 
 ## MATCH 11 TO 20
-![alt text](image-1.png))
+
 ## MATCH 21
 ## KKR VS LSG
 **KKR vs LSG: A Growing Rivalry (2022-2024)**
