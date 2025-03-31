@@ -130,9 +130,7 @@ plt.show()
 
 ## ANALYSIS
 
-Match 1 to 10
-
-
+[MATCH SCHEDULE 2025](https://www.google.com/search?client=firefox-b-d&q=ipl+schedule+2025#cobssid=s&sie=lg;/g/11w9tbcchv;5;/m/03b_lm1;mt;fp;1;;;)
 
 ## MATCH 1  
 ## KKR VS RCB
@@ -444,7 +442,6 @@ venue = 'ACA-VDCA Cricket Stadium'
 ```
 
 
-## MATCH 11 TO 20
 
 ## MATCH 11
 ## RR VS CSK
@@ -747,7 +744,6 @@ team2 = 'Royal Challengers Bangalore'
 venue = 'Wankhede Stadium, Mumbai'
 ```
 
-## MATCH 11 TO 20
 
 ## MATCH 21
 ## KKR VS LSG
@@ -1047,9 +1043,7 @@ team2 = ' chennai Super Kings'
 venue = ' Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur '
 ```
 
-## MATCH 31 TO 40
 
-![alt text](image-2.png)
 ## MATCH 31
 ## PBKS VS KKR 
 
@@ -1336,8 +1330,7 @@ team2 = 'Delhi Capitals'
 venue = 'Ekana Cricket Stadium, Lucknow'
 ```
 
-## MATCH 41 TO 50
-![alt text](image-3.png)
+
 ## MATCH 41
 ## SRH VS MI
 
@@ -1630,8 +1623,7 @@ team1 = 'Mumbai Indians'
 team2 = 'Rajasthan Royals'
 venue = ' Sawai Mansingh Stadium, Jaipur ' 
 ```
-## MATCH 51 TO 60
-![alt text](image-4.png)
+
 
 ## MATCH 51  
 ## GT VS SRH  
@@ -1922,8 +1914,7 @@ team1 = ' Kolkata Knight Riders'
 team2 ='Royal Challengers Bangalore'
 venue =' Rajiv Gandhi International Stadium, Hyderabad'
 ```
-## MATCH 61 TO 70
-![alt text](image-5.png)
+
 ## MATCH 61  
 ## PBKS VS MI  
 
